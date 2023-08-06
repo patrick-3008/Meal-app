@@ -1,6 +1,6 @@
 # mealapp
 
-A new Flutter project.
+A flutter application which provide some categories of food from the internet using the provider state management and clean code.
 
 ## Getting Started
 
