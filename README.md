@@ -2,6 +2,8 @@
 
 A flutter application which provide some categories of food from the internet using the provider state management and clean code.
 
+linkedin link : https://www.linkedin.com/posts/patrick-nashaat-0474ba24a_flutter-ios-andriod-activity-7093192001231175682-HjRI?utm_source=share&utm_medium=member_desktop
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
